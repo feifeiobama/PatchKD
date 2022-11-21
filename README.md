@@ -1,5 +1,5 @@
 # PatchKD
-Code for ACM MM 2022 paper [Patch-based Knowledge Distillation for Lifelong Person Re-Identification](http://www.muyadong.com/paper/acmmm22_sunzc.pdf).
+Code for ACM MM 2022 paper [Patch-based Knowledge Distillation for Lifelong Person Re-Identification](https://dl.acm.org/doi/abs/10.1145/3503161.3548179).
 
 ![Framework](figs/framework.png)
 
@@ -46,6 +46,7 @@ If you find this code useful for your research, please cite our paper.
     author = {Sun, Zhicheng and Mu, Yadong},
     title = {Patch-based Knowledge Distillation for Lifelong Person Re-Identification},
     booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
+    pages = {696--707},
     year = {2022}
 }
 ```
